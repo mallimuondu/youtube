@@ -1,3 +1,3 @@
 # youtube
-A copy of youtube website
+A copy of YouTube website
 
