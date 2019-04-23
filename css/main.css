@@ -1,0 +1,34 @@
+#recom-hidden {
+    display: none;
+    
+}
+
+.nav-icons {
+    padding: 10px;
+    font-size: 25px;
+    color: white;
+
+}
+
+.img-homepage-card {
+    height: 120px;
+    width: 100%;
+    padding: 0px;
+
+}
+
+
+.nerfgun {
+    transition: background-color 1s, color 1s;
+
+}
+
+.nerfgun:hover {
+    background-color: black;
+    color: white;
+}
+
+.number-of-views,
+.when-uploaded {
+    color: red;
+}
