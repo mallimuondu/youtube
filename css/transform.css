@@ -8,7 +8,7 @@ body{
     box-sizing: border-box;
 }
 img{
-    transform: rotateZ(0deg) translatey(1px) scale(1)
+    transform: rotateZ(0deg) translatey(1px) scale(1);
 }
 .circle{
     width: 100px;
